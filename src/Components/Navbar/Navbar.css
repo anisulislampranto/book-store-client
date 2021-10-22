@@ -1,0 +1,37 @@
+.navigation-links{
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+}
+.navigation-links:hover{
+    box-shadow:  2px 2px 4px gray;
+    border-radius: 5px;
+
+}
+
+.navbar{
+    display:flex;
+    border: none;
+    box-shadow: 4px 4px 30px;
+    height: 100%;
+    align-items: center;
+
+}
+.navigation{
+    margin-left: 600px;
+    height: 100%;
+}
+.logo{
+    margin-left: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+.user-logo{
+    border-radius: 50px;
+    width: 28px;
+    padding: 5px;
+    margin-top: 5px;
+}

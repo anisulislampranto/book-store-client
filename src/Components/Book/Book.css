@@ -1,0 +1,31 @@
+.book-card{
+    border: 1px solid black;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 20px gray;
+    border: none;
+  }
+  .book-card img {
+      width: 100%;
+      
+  }
+  .card-footer{
+      display: flex;
+      gap: 150px;
+  }
+  .buy-now-btn{
+      width: 80px;
+      height: 40px;
+      margin-top: 10px;
+      border-radius: 5px;
+      background: linear-gradient(to bottom, #666600 0%, #999966 100%);
+      font-weight: bolder;
+      color: white;
+      border: none;
+      box-shadow: 4px 4px 8px gray;
+      cursor: pointer;
+  }
+  
+  

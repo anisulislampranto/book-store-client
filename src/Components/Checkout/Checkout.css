@@ -1,0 +1,19 @@
+.checkout-product{
+    display: flex;
+    width: 70%;
+    margin-top: 80px;
+    gap: 120px;
+    align-items: center;
+    margin-left: 100px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px;
+}
+.checkout-product img{
+        width: 100px;
+}
+.order-form{
+    text-align: center;
+    margin-top: 30px;
+    
+}

@@ -1,0 +1,13 @@
+.manage-books-page{
+    display: flex;
+}
+.details{
+    padding-top: 20px;
+    margin-left: 300px;
+}
+.manage-books-title-header{
+    display: flex;
+    gap: 200px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}

@@ -1,0 +1,12 @@
+.order-info-card{
+    border: 1px solid black;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 20px gray;
+    border: none;
+}
+.order-info-card img{
+    width: 100%;
+}

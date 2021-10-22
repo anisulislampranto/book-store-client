@@ -1,0 +1,37 @@
+.manage-books-title-header{
+    display: flex;
+}
+.book-details{
+    display: flex;
+    gap: 185px;
+    text-align: center;
+    margin-top: 40px;
+
+}
+.book-image{
+    height: 80px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 8px;
+
+}
+.book-name{
+    width: 120px;
+}
+.edit-button{
+    padding: 1px;
+    cursor: pointer;
+    color: green;
+    border: none;
+    box-shadow: 2px 2px 2px;
+    border-radius: 5px;
+
+}
+.delete-button{
+    padding: 1px;
+    margin: 5px;
+    cursor: pointer;
+    color: red;
+    border: none;
+    box-shadow: 2px 2px 2px;
+    border-radius: 5px;
+}
