@@ -2,7 +2,7 @@
 ### Live Link: https://book-store-client-64bcd.web.app/
 
 ## Server Site Repo Link
-### https://github.com/anisulislampranto/book-store-server/blob/main/index.js
+### https://github.com/anisulislampranto/book-store-server
 
 ## Front-end Features 
 #### Firebase Authentication system 
